@@ -1,5 +1,5 @@
 void recursion() {
-	recurion();
+	recursion();
 }
 
 int main() {
